@@ -1,3 +1,2 @@
 # CSharpDemo projects
-
-Foobar is a Python library for dealing with word pluralization.
+Visual studio solution for handling c# 
